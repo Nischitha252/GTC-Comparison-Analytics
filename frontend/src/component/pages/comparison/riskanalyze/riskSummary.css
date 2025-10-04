@@ -1,0 +1,33 @@
+.clause-container {
+  display: flex;
+  gap: 20px;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.clause-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  width: 400px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.percentage {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.risk {
+  font-weight: bold;
+}
+.vendor-label {
+  /* border: 1px solid #898484; */
+  border-radius: 8px;
+  padding: 16px;
+  width: 300px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #ebebeb;
+}
